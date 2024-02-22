@@ -4,9 +4,8 @@ Movbixer is a web application that utilizes the MovieDB API to display movie, tv
 
 ## Features
 
-- Display a list of popular movies
-- Search for movies
-- View detailed information about a movie
+- Display a list of popular Movies, TV series and celebrities and other lots of information
+- Search for movies, tv TV series and celebrities and others.
 
 ## Technologies Used
 
