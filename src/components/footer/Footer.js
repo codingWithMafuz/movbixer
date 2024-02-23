@@ -36,7 +36,7 @@ export default function Footer() {
               <a
                 target='_blank'
                 rel='noreferrer'
-                href="https://github.com/codewithMafuz"
+                href="https://github.com/codingWithMafuz"
                 className="text-blue-300 transition-colors duration-300 hover:text-deep-purple-accent-400"
               >
                 <i className="fab fa-github text-base"></i>

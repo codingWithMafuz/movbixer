@@ -21,8 +21,10 @@ To run this project locally, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
+## Check LinkedIn Profile
+
+- [LinkedIn Profile](https://www.linkedin.com/in/mafuzur-rahman-126559215/)
 
 ## Credits
 
-- This project uses the [TMDb API](https://developer.themoviedb.org/)
-
+- This project uses the [TMDb API](https://www.themoviedb.org/)
