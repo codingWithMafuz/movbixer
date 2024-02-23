@@ -9,9 +9,11 @@ Movbixer is a web application that utilizes the MovieDB API to display movie, tv
 
 ## Technologies Used
 
+- HTML/CSS/JavaScript
+- Tailwind CSS
 - React
 - TMDb API
-- [List any other libraries or technologies you used]
+- Other popular libraries
 
 ## Installation
 
